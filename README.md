@@ -5,6 +5,8 @@ My MBA project to migrate a small company (with 5 employees) to cloud solutions,
 ## Steps
 
 ### Storage Migration (to Azure Files)
+https://github.com/ETeotonio/CompanyMigration/tree/main/Fileshare
+
 ### User folders migration (to One Drive, using Office 365)
 ### E-mail migration (to Office 365)
 ### Test and Production ERP environments migration (to Azure)
